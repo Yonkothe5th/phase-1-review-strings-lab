@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-09-26T19:36:36.854Z",
-    "end": "2023-09-26T19:36:37.556Z",
-    "duration": 702
+    "start": "2023-09-27T17:52:50.867Z",
+    "end": "2023-09-27T17:52:51.311Z",
+    "duration": 444
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,14 +34,14 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,14 +108,14 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
